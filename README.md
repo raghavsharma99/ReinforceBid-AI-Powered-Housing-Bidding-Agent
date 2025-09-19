@@ -1,4 +1,4 @@
-# CS 238 Final Project: Bidding Simulation and Optimization
+# Bidding Simulation and Optimization
 
 This project focuses on simulating the bidding process for a house and optimizing the decision-making strategy using Value Iteration on an MDP (Markov Decision Process).
 
